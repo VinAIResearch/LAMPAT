@@ -9,13 +9,11 @@ Details of the model architecture and experimental results can be found in [our 
 Please CITE our paper whenever this repository is used to help produce published results or incorporated into other software.
 
 
-    @article{LAMPAT,
+    @inproceedings{LAMPAT,
         title = {{LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training}},
-        url = {https://arxiv.org/abs/2401.04348},
         author = {Le, Khoi M. and Pham, Trinh and Quan, Tho and Luu, Anh Tuan},
-        month = jan,
         year = {2024},
-        journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+        booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
     }
 
 ## Training
